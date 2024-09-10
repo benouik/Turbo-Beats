@@ -1,11 +1,3 @@
-
-
-
-
-Possibilités de copier/coller par 4 mesures les melodies
-
-
-
 <script setup lang="js">
 
 import { ref, onMounted } from "vue";
